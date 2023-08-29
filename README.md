@@ -1,7 +1,30 @@
-### Hi there 👋
+# 👨🏻‍💻 Christian Ek
+
+<p>
+I'm a seasoned Full Stack Developer with a wealth of experience in the software engineering and services industry. Armed with a Bachelor's degree in Computer and System Science, I've dedicated my career to harnessing technology to solve complex challenges and enhance the lives of users.
+</p>
+
+<h3> 👨🏻‍💻 About Me </h3>
+- 🎓 &nbsp; Studied Computer Science at University West.
+- 💼 &nbsp; 12 years of professional experience as a Software Engineeer.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Python | Shell scripting 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Vuejs | Nuxtjs
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Gitlab | Bitbucket
+- 🐳 &nbsp; Docker
+
+<br/>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+- <a href="https://www.linkedin.com/in/christian-ek-78b62837/">LinkedIn</a>
+- <a href="mailto:christian.ek@live.se">christian.ek@live.se</a>
+
 
 <!--
-**christian-ek/christian-ek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
