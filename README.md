@@ -5,6 +5,7 @@ I'm a seasoned Full Stack Developer with a wealth of experience in the software 
 </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
+
 - 🎓 &nbsp; Studied Computer Science at University West.
 - 💼 &nbsp; 12 years of professional experience as a Software Engineeer.
 
