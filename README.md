@@ -16,14 +16,6 @@ I'm a seasoned Full Stack Developer with a wealth of experience in the software 
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🐳 &nbsp; Docker
 
-<br/>
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-- <a href="https://www.linkedin.com/in/christian-ek-78b62837/">LinkedIn</a>
-- <a href="mailto:christian.ek@live.se">christian.ek@live.se</a>
-
-
 <!--
 
 Here are some ideas to get you started:
