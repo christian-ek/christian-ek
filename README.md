@@ -7,12 +7,12 @@ I'm a seasoned Full Stack Developer with a wealth of experience in the software 
 <h3> 🙋🏻‍♂️ About Me </h3>
 
 - 🎓 &nbsp; Studied Computer Science at University West.
-- 💼 &nbsp; 12 years of professional experience as a Software Engineeer.
+- 💼 &nbsp; 12 years of professional experience as a Software Engineer.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Python | Shell scripting 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Vuejs | Nuxtjs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | Vuejs | Nuxtjs
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🐳 &nbsp; Docker
